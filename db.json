@@ -1,0 +1,35 @@
+{
+    "services": [
+                    {
+                      "img": "https://image.freepik.com/vector-gratis/feliz-cumpleanos-globos-dorados-plateados-confeti_1017-29992.jpg",
+                      "tittle": "Celebracion de cumpleaños",
+                      "text": "lLorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto nobis reprehenderit earum cupiditate sed."
+                    },
+                    {
+                      "img": "https://image.freepik.com/vector-gratis/etiquetas-aniversario-boda-oro_1017-32715.jpg",
+                      "tittle": "Aniversario",
+                      "text": "lLorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto nobis reprehenderit earum cupiditate sed."
+                    },
+                    {
+                      "img": "https://image.freepik.com/vector-gratis/fondo-zona-infantil_24908-60442.jpg",
+                      "tittle": "Fiestas infantiles",
+                      "text": "lLorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto nobis reprehenderit earum cupiditate sed."
+                    },
+                    {
+                      "img": "https://img.freepik.com/foto-gratis/compromiso_1098-12897.jpg?size=338&ext=jpg",
+                      "tittle": "Declaraciones o propuestas",
+                      "text": "lLorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto nobis reprehenderit earum cupiditate sed."
+                    },
+                    {
+                      "img": "https://image.freepik.com/foto-gratis/mejores-hombres-vasos-llenos-bebidas-alcoholicas-vestidos-atuendos-formales_8353-10910.jpg",
+                      "tittle": "Despedidas",
+                      "text": "lLorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto nobis reprehenderit earum cupiditate sed."
+                    },
+                    {
+                      "img": "https://image.freepik.com/foto-gratis/foto-chico-toma-selfie-grupo-amigos-ropa-elegante-cenan-lujo_146671-14488.jpg",
+                      "tittle": "Cena con amigos",
+                      "text": "lLorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto nobis reprehenderit earum cupiditate sed."
+                    }
+                ]
+
+}
